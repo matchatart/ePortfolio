@@ -9,3 +9,8 @@ h1 {
     padding:40px;
     font-size: 30pt;
 }
+
+img {
+    height: 50px;
+    width: 50px;
+}
